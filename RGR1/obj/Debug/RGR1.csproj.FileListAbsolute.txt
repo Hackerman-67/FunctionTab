@@ -1,0 +1,11 @@
+C:\Users\User\C# projects\RGR1\RGR1\bin\Debug\RGR1.exe.config
+C:\Users\User\C# projects\RGR1\RGR1\bin\Debug\RGR1.exe
+C:\Users\User\C# projects\RGR1\RGR1\bin\Debug\RGR1.pdb
+C:\Users\User\C# projects\RGR1\RGR1\obj\Debug\RGR1.csproj.AssemblyReference.cache
+C:\Users\User\C# projects\RGR1\RGR1\obj\Debug\RGR1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\C# projects\RGR1\RGR1\obj\Debug\RGR1.Form1.resources
+C:\Users\User\C# projects\RGR1\RGR1\obj\Debug\RGR1.Properties.Resources.resources
+C:\Users\User\C# projects\RGR1\RGR1\obj\Debug\RGR1.csproj.GenerateResource.cache
+C:\Users\User\C# projects\RGR1\RGR1\obj\Debug\RGR1.csproj.CoreCompileInputs.cache
+C:\Users\User\C# projects\RGR1\RGR1\obj\Debug\RGR1.exe
+C:\Users\User\C# projects\RGR1\RGR1\obj\Debug\RGR1.pdb
